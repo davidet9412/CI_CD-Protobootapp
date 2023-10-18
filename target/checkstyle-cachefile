@@ -1,0 +1,5 @@
+#Wed Oct 18 16:49:07 COT 2023
+configuration*?=771ED6DE1DB42A0541741CFD341D114B28901CAE
+module-resource*?\:checkstyle-xpath-suppressions.xml=B5FDA1821EC96F4BD6217B9494637C9C216AE364
+module-resource*?\:checkstyle-suppressions.xml=97A9ADF1D63D37299E8F9238D0BE1D18A71F2561
+/home/david/IdeaProjects/CI_CD-Protobootapp/src/main/resources/application.properties=1697605492307
